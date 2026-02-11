@@ -1,6 +1,6 @@
 # AI Red-Teaming Portfolio (Reproducible, Human-Labeled)
 
-This repository is a **portfolio of AI red-teaming work** aligned to roles that require:
+This repository documents **structured adversarial testing of LLMs**, focusing on jailbreaks, prompt injection, and socio-technical failure modes. The goal is to produce reproducible artifacts and annotated datasets usable for AI safety evaluation.
 
 - jailbreak & prompt-injection testing
 - tool/agent misuse testing
