@@ -1,0 +1,9 @@
+[project]
+name = "redteam-harness"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["jsonschema>=4.21.1"]
+
+[project.scripts]
+redteam-harness = "redteam_harness.__main__:main"
+
